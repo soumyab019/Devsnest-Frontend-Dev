@@ -1,0 +1,18 @@
+
+.container{
+    margin: auto;
+    padding: 34px;
+    width: 755px;
+    border: 3px solid gray;
+    background-color: white;
+}
+body{
+    /* text-align: center; */
+    /* margin: auto; */
+    background-color: gold;
+}
+#out{
+    padding: 12px;
+    background-color: red;
+    border: 3px solid black;
+}
